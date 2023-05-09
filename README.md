@@ -1,8 +1,8 @@
 # Jmeter_Performance_Testing_fakestoreapi
 Dear, 
 
-I’ve completed performance test on frequently used API for test App. <br/>
-Test executed for the below mentioned scenario in server fakestoreapi.com. 
+I’ve completed performance test on frequently used API for test App https://fakestoreapi.com. <br/>
+Test executed for the below mentioned scenario in server https://fakestoreapi.com. 
 
 * 10 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 4.4 And Total Concurrent API requested: 290.
 * 50 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 23 And Total Concurrent API requested: 1450.
