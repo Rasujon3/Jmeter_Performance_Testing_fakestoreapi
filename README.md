@@ -10,7 +10,7 @@ Test executed for the below mentioned scenario in server https://fakestoreapi.co
 ```diff
 - While executed 100 concurrent request, found 1 request got connection timeout and error rate is 0.03%.
 ```
-<b>Summary:</b> Server can handle almost concurrent 95 API call with almost zero (0) error rate.
+<b>Summary:</b> Server can handle almost concurrent <b>2950</b> API call with almost zero (0) error rate.
 
 Report Image:
 ![report_img](https://github.com/Rasujon3/Jmeter_Performance_Testing_fakestoreapi/assets/61946723/e637af14-d0f7-480d-bf2c-ebaaf8fab2a1)
